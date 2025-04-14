@@ -28,7 +28,7 @@ if ($query) {
 	<center>
 	<table >
 		<form method="post">
-			<tr><td colspan="2"><h3>ADD NEW STUDENT INFORMATION </h3></td></tr>
+			<tr><td colspan="2"><h3>ADD NEW STUDENT INFORMATIONS </h3></td></tr>
 			<tr><td>firstname</td><td><input type="text" name="fname"></td></tr>
 			<tr><td>lastname</td><td><input type="text" name="lname"></td></tr>
 			<tr><td>email</td><td><input type="text" name="email" ></td></tr>
